@@ -5,7 +5,7 @@ Submissions for college subject Programming and Scripting at GMIT
 1. Download Anaconda
 2. Install Anaconda
 
-## Topic 1: Basics of programming, Topic 2: State, variables and statements 
+## Topic 1: Basics of programming & Topic 2: State, variables and statements 
 Includes completed exercises for these weeks and the comments from the Discussion Forum for these tasks.
 
 ## Topic 3: Conditions, loops and flow control
