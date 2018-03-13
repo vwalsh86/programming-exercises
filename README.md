@@ -4,7 +4,18 @@ Submissions for college subject Programming and Scripting at GMIT
 ## How to run this code
 1. Download Anaconda
 2. Install Anaconda
-# week1+2 file includes the work completed for these weeks and also includes the comments I added to the Discussion Forum for these tasks.
-# week 3-collatz_script file: week 3 exercise to build a script for the collatz conjecture theory
-# projecteuler5: Topic 4 exercise 
-# Topic5.Iris_Set - Week 6 exercise
+
+## Topic 1: Basics of programming, Topic 2: State, variables and statements 
+Includes completed exercises for these weeks and the comments from the Discussion Forum for these tasks.
+
+## Topic 3: Conditions, loops and flow control
+Exercise - build a script for the collatz conjecture theory
+
+## Topic 4: Lists
+Exercise - Project Euler: Problem 5
+
+## Topic 5: Input and output
+Exercise - Iris Data Set print-out 
+
+## Topic 6: Functions
+Exercise: Factorial Function
