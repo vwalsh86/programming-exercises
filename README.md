@@ -4,6 +4,9 @@ Submissions for college subject Programming and Scripting at GMIT
 ## How to run this code
 1. Download Anaconda
 2. Install Anaconda
+3. Run the file to complete install
+   See reference for further info on Python: https://anaconda.org/anaconda/python
+4. Download & install Visual Studio Code to use Python within
 
 ## Topic 1: Fibonacci & Topic 2: Surname.py
 Topic 1: Basics of programming & Topic 2: State, variables and statements 
