@@ -1,5 +1,18 @@
-# Python Exercises
-Submissions for college subject Programming and Scripting at GMIT
+# <em>Weekly Exercises: Programming & Scripting - 52167</em>
+## Overview
+* I am a GMIT Student for - Weekly exercises for Programming and Scripting
+* Completed and uploaded weekly tasks as per 
+
+WEEKLY TASKS |  TOPIC AREA
+------------ | -------------
+Exercise 1 & 2 | Fibonacci & Surname
+Exercise 3 | Collatz Script
+Exercise 4 | Project Euler Problem 5
+Exercise 5 | Iris Data Set
+Exercise 6 | Factorial Function
+
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 ## How to run this code
 1. Download Anaconda
@@ -8,22 +21,29 @@ Submissions for college subject Programming and Scripting at GMIT
    See reference for further info on Python: https://anaconda.org/anaconda/python
 4. Download & install Visual Studio Code to use Python within
 
-## Topic 1: Fibonacci & Topic 2: Surname.py
-Topic 1: Basics of programming & Topic 2: State, variables and statements 
-Completed exercises for these weeks and the comments from the Discussion Forum for these tasks.
+## Fibonacci & Surname
+Topic 1: Basics of Programming 
+Topic 2: State, variables and statements 
+<em>Completed exercises for weeks 1 & 2, including my comment from the Discussion Forum for these tasks.</em>
 
-## Topic 3: Collatz script.py 
+## Collatz Script
 Topic 3: Conditions, loops and flow control
-Exercise - build a script for the collatz conjecture theory
+<em>Write a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. </em>
 
-## Topic 4: Project Euler 5.py
+## Project Euler Problem 5
 Topic 4: Lists
-Exercise - Project Euler: Problem 5
+<em>Write a Python program using for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.</em>
 
-## Topic 5: Iris Data Set.py
+## Iris Data Set
 Topic 5: Input and output
-Exercise - Iris Data Set print-out 
+<em>Write a Python script that reads the Iris data set in and prints the four numerical values on each row in a nice format.</em> 
 
-## Topic 6: Factorial function.py
+## Topic 6: Factorial Function
 Topic 6: Functions
-Exercise: Factorial Function
+<em> Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. You should, in your script, test the function by calling it with the values 5, 7, and 10.</em>
+
+## References:
+Wikipedia
+Python website
+Markdown guide
+Markdown wikipedia
