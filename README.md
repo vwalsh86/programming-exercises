@@ -24,6 +24,8 @@ Please follow the below steps to download the software which I used to create th
 
 ![Visual Studio Code](https://github.com/vwalsh86/programming-exercises/blob/master/surname.PNG?raw=true)
 
+# Topics 
+
 ## Fibonacci & Surname
 <strong>Topic 1: Basics of Programming</strong> <br/>
 <strong>Topic 2: State, variables and statements</strong> <br/>
