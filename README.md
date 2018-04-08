@@ -22,7 +22,7 @@ Please follow the below steps to download the software which I used to create th
 - [x] Copy and paste the file content into Visual Studio Code
 - [x] Open the Integrated Terminal and to run the file type <strong>python filename.py</strong>
 
-![Run Python](surname ss.PNG)
+![Visual Studio Code](surname.png)
 
 ## Fibonacci & Surname
 <strong>Topic 1: Basics of Programming</strong> <br/>
