@@ -1,7 +1,7 @@
 # <em>Weekly Exercises: Programming & Scripting - 52167</em>
 ## Overview
 A repository containing completed exercises for college subject 'Programming and Scripting' at GMIT.
-The lecturer for this subject is @ianmcloughlin <br/>
+The lecturer for this subject is <a href="https://ianmcloughlin.github.io/">Ian McLoughlin</a> <br/>
 The files that are included within this repository have been uploaded for the purpose of being scored as apart of my Continuous Assessment for this subject.  
 I have chosen to add <strong>.py</strong> at the end of each file title. This allows Github to recognise and display the files as  Python scripts, which allows for cleaner reading of the content.
 I have created a table (see below) explaining which topic each file is linked to as per exercises set out on the course <a href="https://learnonline.gmit.ie/course/view.php?id=3940">Moodle Page</a>.
