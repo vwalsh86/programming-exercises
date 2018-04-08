@@ -1,4 +1,5 @@
 # <em>Weekly Exercises: Programming & Scripting - 52167</em>
+# <h3>Higher Diploma in Data Analytics 2018 (GMIT) <br/> Subject: Programming & Scripting | Lecturer: Ian McLoughlin</h3>
 ## Overview
 A repository containing completed exercises for college subject 'Programming and Scripting' at GMIT.
 The lecturer for this subject is <a href="https://ianmcloughlin.github.io/">Ian McLoughlin</a>. <br/>
