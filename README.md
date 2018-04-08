@@ -22,28 +22,31 @@ Exercise 6 | Factorial Function
 4. Download & install Visual Studio Code to use Python within
 
 ## Fibonacci & Surname
-Topic 1: Basics of Programming 
-Topic 2: State, variables and statements 
+Topic 1: Basics of Programming <br/>
+Topic 2: State, variables and statements <br/>
 <em>Completed exercises for weeks 1 & 2, including my comment from the Discussion Forum for these tasks.</em>
 
 ## Collatz Script
-Topic 3: Conditions, loops and flow control
+Topic 3: Conditions, loops and flow control <br/>
 <em>Write a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. </em>
 
 ## Project Euler Problem 5
-Topic 4: Lists
+Topic 4: Lists <br/>
 <em>Write a Python program using for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.</em>
 
 ## Iris Data Set
-Topic 5: Input and output
+Topic 5: Input and output <br/>
 <em>Write a Python script that reads the Iris data set in and prints the four numerical values on each row in a nice format.</em> 
 
 ## Topic 6: Factorial Function
-Topic 6: Functions
+Topic 6: Functions <br/>
 <em> Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. You should, in your script, test the function by calling it with the values 5, 7, and 10.</em>
 
-## References:
-Wikipedia
-Python website
-Markdown guide
-Markdown wikipedia
+## <p>References:</p>
+
+<ul>
+<li>Wikipedia</li>
+<li>Python</li>
+<li>Markdown</li>
+<li>Markdown wikipedia</li>
+</ul>
