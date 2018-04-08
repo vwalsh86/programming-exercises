@@ -24,6 +24,13 @@ Please follow the below steps to download the software which I used to create th
 
 ![Visual Studio Code](https://github.com/vwalsh86/programming-exercises/blob/master/surname.PNG?raw=true)
 
+## How to download a file from a repository:
+<ul>
+<li> Click on the desired file within the repository.
+<li> Select the <strong>'Raw'</strong> button from the file menu on the top right of the screen. (The file will open in a new browser tab)
+<li> Right click and choose <strong>'Save As'</strong> which will allow you to save the file locally.
+</ul>
+
 # Topics 
 
 ## Fibonacci & Surname
