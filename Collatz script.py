@@ -1,5 +1,6 @@
 # Valerie Walsh 10-02-2018
-# Week 3 
+# Topic 3: Conditions, loops and flow control 
+# Write a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement.
 # Exercise - Create a Collatz script
 
 # Reference: https://gist.github.com/ecaldwell/5274266
