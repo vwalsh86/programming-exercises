@@ -1,7 +1,8 @@
 # <em>Weekly Exercises: Programming & Scripting - 52167</em>
 ## Overview
-* I am a GMIT Student for - Weekly exercises for Programming and Scripting
-* Completed and uploaded weekly tasks as per 
+A repository containing completed exercises for college subject 'Programming and Scripting' at GMIT.
+The files that are included within this repository have been uploaded for the purpose of being scored as apart of my Continuous Assessment for this subject.  
+I have created a table (see below) explaining which topic each file is linked to as per exercises set out on the course <a href="https://learnonline.gmit.ie/course/view.php?id=3940">Moodle Page</a>.
 
 WEEKLY TASKS |  TOPIC AREA
 ------------ | -------------
@@ -11,15 +12,11 @@ Exercise 4 | Project Euler Problem 5
 Exercise 5 | Iris Data Set
 Exercise 6 | Factorial Function
 
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
-## How to run this code
-1. Download Anaconda
-2. Install Anaconda
-3. Run the file to complete install
-   See reference for further info on Python: https://anaconda.org/anaconda/python
-4. Download & install Visual Studio Code to use Python within
+Please follow the below steps to download the software which I used to create these files:
+- [x] Download <a href="https://code.visualstudio.com/Download">Visual Studio Code</a>
+- [x] Download <a href="https://www.anaconda.com/download/">Anaconda</a> {Ensure to select the newest version of Anaconda, which is Python 3.6 version at the time of publishing.} <br/> 
+<em>Python itself is a programming language, there are many pieces of software which can be used to access it. For this repository, I have chosen to use Anaconda as instructed by the course lecturer. Please note: the download file is a large file, >500MB.</em> <br/>
+- [x] Once downloaded, run both the exe files and follow to step-by-step guide to complete install.
 
 ## Fibonacci & Surname
 <strong>Topic 1: Basics of Programming</strong> <br/>
@@ -38,7 +35,7 @@ Exercise 6 | Factorial Function
 <strong>Topic 5: Input and output</strong> <br/>
 <em>Write a Python script that reads the Iris data set in and prints the four numerical values on each row in a nice format.</em> 
 
-## Topic 6: Factorial Function
+## Factorial Function
 <strong>Topic 6: Functions</strong> <br/>
 <em> Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. You should, in your script, test the function by calling it with the values 5, 7, and 10.</em>
 
@@ -47,6 +44,6 @@ Exercise 6 | Factorial Function
 <ul>
 <li>Wikipedia</li>
 <li>Python</li>
-<li>Markdown</li>
-<li>Markdown wikipedia</li>
+<li>Mastering Markdown - https://guides.github.com/features/mastering-markdown/</li>
+<li>Markdown Wikipedia Page - https://en.wikipedia.org/wiki/Markdown</li>
 </ul>
