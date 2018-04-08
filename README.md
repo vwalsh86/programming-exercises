@@ -1,6 +1,6 @@
 # <h1 align="center"><em>Weekly Exercises: Programming & Scripting - 52167</em></h1>
 # <h3 align="center">Higher Diploma in Data Analytics 2018 (GMIT) <br/> Subject: Programming & Scripting | Lecturer: Ian McLoughlin</h3> 
-# <h3 align="center">Student: Valerie Walsh | Student Number: G00364748</h3>
+# <h3 align="center"><em>Student: Valerie Walsh | Student Number: G00364748</h3></em>
 ## Overview
 A repository containing completed exercises for college subject 'Programming and Scripting' at GMIT.
 The lecturer for this subject is <a href="https://ianmcloughlin.github.io/">Ian McLoughlin</a>. <br/>
