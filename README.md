@@ -17,6 +17,8 @@ Please follow the below steps to download the software which I used to create th
 - [x] Download <a href="https://www.anaconda.com/download/">Anaconda</a> {Ensure to select the newest version of Anaconda, which is Python 3.6 version at the time of publishing.} <br/> 
 <em>Python itself is a programming language, there are many pieces of software which can be used to access it. For this repository, I have chosen to use Anaconda as instructed by the course lecturer. Please note: the download file is a large file, >500MB.</em> <br/>
 - [x] Once downloaded, run both the exe files and follow to step-by-step guide to complete install.
+- [x] Copy and paste the file content into Visual Studio Code
+- [x] Open the Integrated Terminal and to run the file type <strong>python filename.py</strong>
 
 ## Fibonacci & Surname
 <strong>Topic 1: Basics of Programming</strong> <br/>
@@ -42,8 +44,10 @@ Please follow the below steps to download the software which I used to create th
 ## <p>References:</p>
 
 <ul>
-<li>Wikipedia</li>
-<li>Python</li>
+<li>Visual Studio Code download - https://code.visualstudio.com/Download</li>
+<li>Anaconda download - https://www.anaconda.com/download/</li>
+<li><em>'Iris Flower Data Set'</em> Wikipedia Page - https://en.wikipedia.org/wiki/Iris_flower_data_set</li>
+<li>'Iris Flower Data Set' download file - http://archive.ics.uci.edu/ml/machine-learning-databases/iris/</li>
 <li>Mastering Markdown - https://guides.github.com/features/mastering-markdown/</li>
 <li>Markdown Wikipedia Page - https://en.wikipedia.org/wiki/Markdown</li>
 </ul>
