@@ -1,4 +1,5 @@
-# WEEK 1 - FIBONACCI NUMBER 
+# Topic 1: Basics of programming
+# Exercise -  Change the program to calculate the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers.
 # Valerie Walsh
 # A program that displays Fibonacci numbers.
 
@@ -19,7 +20,8 @@ x = 27
 ans = fib(x)
 print("Fibonacci number", x, "is", ans)
 
-# WEEK 2 - SURNAME
+# Topic 2: State, variables and statements
+# Exercise - Change the string variable to contain your own surname, and rerun it. Can you figure out what ord() does?
 def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
