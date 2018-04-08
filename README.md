@@ -12,6 +12,8 @@ Exercise 4 | Project Euler Problem 5
 Exercise 5 | Iris Data Set
 Exercise 6 | Factorial Function
 
+![Anaconda logo](logo-dark.png)   ![Visual Studio Code logo](vsc.jpg)
+
 Please follow the below steps to download the software which I used to create these files:
 - [x] Download <a href="https://code.visualstudio.com/Download">Visual Studio Code</a>
 - [x] Download <a href="https://www.anaconda.com/download/">Anaconda</a> {Ensure to select the newest version of Anaconda, which is Python 3.6 version at the time of publishing.} <br/> 
@@ -20,7 +22,7 @@ Please follow the below steps to download the software which I used to create th
 - [x] Copy and paste the file content into Visual Studio Code
 - [x] Open the Integrated Terminal and to run the file type <strong>python filename.py</strong>
 
-![Anaconda logo](logo-dark.png)   ![Visual Studio Code logo](vsc.jpg)
+![Run Python](surname ss.PNG)
 
 ## Fibonacci & Surname
 <strong>Topic 1: Basics of Programming</strong> <br/>
