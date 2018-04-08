@@ -13,6 +13,8 @@ Exercise 4 | Project Euler Problem 5
 Exercise 5 | Iris Data Set
 Exercise 6 | Factorial Function
 
+## Instructions - install the software used
+
 ![Anaconda logo](logo-dark.png)   ![Visual Studio Code logo](vsc.jpg)
 
 Please follow the below steps to download the software which I used to create these files:
