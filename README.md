@@ -67,4 +67,8 @@ Please follow the below steps to download the software which I used to create th
 <li>'Iris Flower Data Set' download file - http://archive.ics.uci.edu/ml/machine-learning-databases/iris/</li>
 <li>Mastering Markdown - https://guides.github.com/features/mastering-markdown/</li>
 <li>Markdown Wikipedia Page - https://en.wikipedia.org/wiki/Markdown</li>
+<li>References Topic 3: https://gist.github.com/ecaldwell/5274266 , https://www.webucator.com/blog/2015/07/collatz-conjecture-in-python/</li>
+<li>References Topic 4: https://projecteuler.net/problem=5 , https://github.com/Sarahkel/Python-Problem-Sets/blob/master/Euler5.py , https://www.mathblog.dk/project-euler-problem-5/ </li>
+<li>References Topic 5: https://pyformat.info/ , https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas </li>
+<li>References Topic 6: https://stackoverflow.com/questions/5136447/function-for-factorial-in-python , https://www.quora.com/How-would-you-define-a-factorial-function-in-Python </li>
 </ul>
