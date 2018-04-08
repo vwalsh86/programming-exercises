@@ -1,5 +1,8 @@
 # Valerie Walsh 13-03-2018
-# Topic 6: Functions - Exercise Factorial
+# Topic 6: Functions 
+# Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. You should, in your script, test the function by calling it with the values 5, 7, and 10.
+
+
 # Resource: https://stackoverflow.com/questions/5136447/function-for-factorial-in-python
 
 def factorial(i):
