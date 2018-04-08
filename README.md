@@ -5,7 +5,7 @@ The files that are included within this repository have been uploaded for the pu
 I have chosen to add <strong>.py</strong> at the end of each file title. This allows Github to recognise and display the files as  Python scripts, which allows for cleaner reading of the content.
 I have created a table (see below) explaining which topic each file is linked to as per exercises set out on the course <a href="https://learnonline.gmit.ie/course/view.php?id=3940">Moodle Page</a>.
 
-WEEKLY TASKS |  TOPIC AREA
+WEEKLY TASKS |  FILE TITLE 
 ------------ | -------------
 Exercise 1 & 2 | Fibonacci & Surname
 Exercise 3 | Collatz Script
