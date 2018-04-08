@@ -1,7 +1,7 @@
 # <h1 align="center"><em>Programming & Scripting | Weekly Problem Sets</h1></em>
 # <h3 align="center">Higher Diploma in Data Analytics 2018 (GMIT) <br/> Subject: Programming & Scripting | Lecturer: Ian McLoughlin</h3> 
 ## Overview
-A repository containing completed exercises for college subject 'Programming and Scripting' at GMIT.
+A repository containing completed exercises for college subject <em>'Programming and Scripting'</em> at GMIT.
 The lecturer for this subject is <a href="https://ianmcloughlin.github.io/">Ian McLoughlin</a>. <br/>
 The files that are included within this repository have been uploaded for the purpose of being scored as apart of my Continuous Assessment for this subject.  
 I have added <strong>.py</strong> at the end of each file title as this allows Github to recognise and display the files as Python scripts, making them easier to read.
@@ -64,7 +64,7 @@ Please follow the below steps to download the software which I used to create th
 <ul>
 <li>Visual Studio Code download - https://code.visualstudio.com/Download</li>
 <li>Anaconda download - https://www.anaconda.com/download/</li>
-<li><em>'Iris Flower Data Set'</em> Wikipedia Page - https://en.wikipedia.org/wiki/Iris_flower_data_set</li>
+<li>'Iris Flower Data Set' Wikipedia Page - https://en.wikipedia.org/wiki/Iris_flower_data_set</li>
 <li>'Iris Flower Data Set' download file - http://archive.ics.uci.edu/ml/machine-learning-databases/iris/</li>
 <li>Mastering Markdown - https://guides.github.com/features/mastering-markdown/</li>
 <li>Markdown Wikipedia Page - https://en.wikipedia.org/wiki/Markdown</li>
